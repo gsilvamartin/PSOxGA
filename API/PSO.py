@@ -28,7 +28,7 @@ from NiaPy.benchmarks import Sphere
 #nFES (int): número máximo de avaliações de funções.
 #=======================================================================
 
-tamanhoPopulacao = 40
+tamanhoPopulacao = 100
 componenteCognitivo = 2.0
 componenteSocial = 2.0
 pesoInercial = 0.7
